@@ -12,7 +12,14 @@ According to The Gender Policy Report from the University of Minnesota, men are 
 
 Find relationships or patterns in the data based on gender by using New Yor City, one of the largest metropolitan areas in the world, as reference to verify these findings
 
-## Task
+## Basic Demographics
+
+The dataset from 2019 contains trip information including start and end location, duration, bike used, distance travelled, and rider gender. The dataset contains 404,947 records. Refer to the pie chart to the left for breakdown on gender distribution. Clearly, males use bike as mean of transportation more than women
+
+However, this proportion alone is not good to explain the difference in participation. The data obtain shows an age breakdown that is remarkably similar for both genders considering the difference in population. It's worth noting that riders who did not report their gender are typically older than  half of the users. Notice the data is skewed meaning that most riders tend to be 45 years old or older regardless of gender.
+
+![demographics](images/demographics.jpg)
+
 
 
 
