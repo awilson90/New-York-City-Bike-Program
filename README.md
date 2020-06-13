@@ -20,8 +20,17 @@ However, this proportion alone is not good to explain the difference in particip
 
 ![demographics](images/demographics.jpg)
 
+## Trip Duration
 
+For trip duration, there is not enough evidence to state that the trip duration varies significantly with gender. The non-adjusted data includes about between 600 to 700 entries which despite the large magnitude, only comprise less than 1% of the data. Again, users who did not report gender present the largest variation on trip duration, but still no evidence of significant difference.
 
+Finally, start and ending trip locations present some interesting patterns. Male and female riders start travelling from the similar areas, but the destination for males spreads farther apart by comparison. It is unclear why this phenomenon occurs with the information available.  
+
+![trip](images/trip_duration.jpg)
+
+## Preliminary Conclusions
+
+There is not enough evidence to conclude than men are willing to participate in the bike program more so than women based on the data provided. Surveys could serve as a useful tool to complement this study. Since there is no significant difference in trip duration, it would be worthwhile to gather information related to the participant's routine/preferences. For example, female riders may prefer certain areas of the city depending on crime rate. A follow-up assignment would consist on preparing random surveys to gather information about the participant's experience. The data collection system is robust enough and resources should definitely be assign to maintain the program running for the city. 
 
 ### Copyright
 
