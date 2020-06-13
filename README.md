@@ -26,7 +26,7 @@ For trip duration, there is not enough evidence to state that the trip duration 
 
 Finally, start and ending trip locations present some interesting patterns. Male and female riders start travelling from the similar areas, but the destination for males spreads farther apart by comparison. It is unclear why this phenomenon occurs with the information available.  
 
-![trip](images/trip_duration.jpg)
+![trip_duration](images/trip_duration.jpg)
 
 ## Preliminary Conclusions
 
